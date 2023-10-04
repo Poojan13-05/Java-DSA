@@ -6,7 +6,7 @@ public class linearsearch {
         System.out.println(ans);
 
     }
-    static int Linear(int arr[], int target){
+    static int Linear(int[] arr, int target){
         if (arr.length==0){
             return -1;
         }
